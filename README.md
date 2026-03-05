@@ -75,3 +75,8 @@ O usuário pode selecionar uma comida, ver detalhes, gerar cupons e acompanhar c
 
 
 
+screenshots
+
+
+
+
