@@ -28,20 +28,21 @@ O usuário pode selecionar uma comida, ver detalhes, gerar cupons e acompanhar c
 
 ## 📸 Capturas de Tela
 
-![Splash](screenshots/tela_splash.jpeg)
+<p float="left">
+  <img src="screenshots/tela_splash.jpeg" width="200" />
+  <img src="screenshots/tela_login.jpeg" width="200" />
+  <img src="screenshots/tela_cadastro.jpeg" width="200" />
+</p>
 
-![Login](screenshots/tela_login.jpeg)
+<p float="left">
+  <img src="screenshots/tela_principal.jpeg" width="200" />
+  <img src="screenshots/tela_coupons.jpeg" width="200" />
+  <img src="screenshots/perfil.jpeg" width="200" />
+</p>
 
-![Cadastro](screenshots/tela_cadastro.jpeg)
-
-![Tela Principal](screenshots/tela_principal.jpeg)
-
-![Cupons](screenshots/tela_coupons.jpeg)
-
-![Perfil](screenshots/perfil.jpeg)
-
-![Cupons Gerados](screenshots/coupon_gerados.jpeg)
-
+<p float="left">
+  <img src="screenshots/coupon_gerados.jpeg" width="200" />
+</p>
 
 
 ---
@@ -75,7 +76,6 @@ O usuário pode selecionar uma comida, ver detalhes, gerar cupons e acompanhar c
 
 
 
-screenshots
 
 
 
