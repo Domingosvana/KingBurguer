@@ -28,19 +28,19 @@ O usuário pode selecionar uma comida, ver detalhes, gerar cupons e acompanhar c
 
 ## 📸 Capturas de Tela
 
-![Splash](screenshots/tela_splash.jpeg)
+![Splash](src/main/java/com/ango/kingburguer/screenshots/tela_splash.jpeg)
 
-![Login](screenshots/tela_login.jpeg)
+![Login](src/main/java/com/ango/kingburguer/screenshots/tela_login.jpeg)
 
-![Cadastro](screenshots/tela_cadastro.jpeg)
+![Cadastro](src/main/java/com/ango/kingburguer/screenshots/tela_cadastro.jpeg)
 
-![Tela Principal](screenshots/tela_principal.jpeg)
+![Tela Principal](src/main/java/com/ango/kingburguer/screenshots/tela_principal.jpeg)
 
-![Cupons](screenshots/tela_coupons.jpeg)
+![Cupons](src/main/java/com/ango/kingburguer/screenshots/tela_coupons.jpeg)
 
-![Perfil](screenshots/perfil.jpeg)
+![Perfil](src/main/java/com/ango/kingburguer/screenshots/perfil.jpeg)
 
-![Cupons Gerados](screenshots/coupon_gerados.jpeg)
+![Cupons Gerados](src/main/java/com/ango/kingburguer/screenshots/coupon_gerados.jpeg)
 
 
 
