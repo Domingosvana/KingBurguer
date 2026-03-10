@@ -44,6 +44,12 @@ O usuário pode selecionar uma comida, ver detalhes, gerar cupons e acompanhar c
   <img src="screenshots/coupon_gerados.jpeg" width="200" />
 </p>
 
+## 🎥 App Demo
+
+<p align="center">
+  <img src="screenshots/kingburguer_ls9yd7tb.gif" width="250"/>
+</p>
+
 
 ---
 
