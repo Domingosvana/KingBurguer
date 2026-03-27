@@ -1,32 +1,28 @@
+# 🍔 KingBurguer
 
+A food ordering application where users can register, log in, and explore available meals.
 
-# KingBurguer
-
-É um aplicativo de comida onde o usuário pode se cadastrar e fazer login.
-
-O usuário pode selecionar uma comida, ver detalhes, gerar cupons e acompanhar cupons ativos e expirados.
+Users can select a meal, view detailed information, generate coupons, and track both active and expired coupons.
 
 ---
 
-## 🛠 Tecnologias Utilizadas
-
+## 🛠 Tech Stack
 
 - Kotlin
 - Jetpack Compose
-- MVVM
+- MVVM Architecture
 - Navigation Compose
 - Material 3
 - Retrofit
-- Hilt
+- Hilt (Dependency Injection)
 - DataStore
-- Splash Screen
-- Coil
-- Material
-- Dager Hilt
+- Splash Screen API
+- Coil (Image Loading)
+- Material Design
 
 ---
 
-## 📸 Capturas de Tela
+## 📸 Screenshots
 
 <p float="left">
   <img src="screenshots/tela_splash.jpeg" width="200" />
@@ -44,45 +40,46 @@ O usuário pode selecionar uma comida, ver detalhes, gerar cupons e acompanhar c
   <img src="screenshots/coupon_gerados.jpeg" width="200" />
 </p>
 
+---
+
 ## 🎥 App Demo
 
 <p align="center">
   <img src="screenshots/kingburguer_ls9yd7tb.gif" width="250"/>
 </p>
 
+---
+
+## 📚 What I Learned
+
+- How to build authentication screens (Login & Registration)
+- Structuring an Android app using MVVM architecture
+- State management in Jetpack Compose
+- Dependency Injection with Hilt
+- Data persistence using DataStore
+- Implementing a Splash Screen
+- Making API requests using Retrofit
+- Navigation between screens using Navigation Compose
+- Writing clean and maintainable code
 
 ---
 
-## 📚 O que eu aprendi
-- Como estruturar uma tela de Cadastro
-- Como estruturar um projeto com MVVM
-- Como gerenciar estado no Compose
-- Como usar o Hilt
-- Como usar o DataStore
-- Como usar o Splash Screen
-- Sistema de Requisicao com Retrofit
-- Como usar Navigation
-- Boas práticas de organização de código
+## 🚀 Future Improvements
+
+- Implement Room Database
+- Add Offline-First support
+- Write unit tests
+- Improve UI/UX design
 
 ---
 
-## 🚀 Melhorias futuras
+## 🤝 Contribution
 
-- Implementar Room Database
-- Implementar Offline First
-- Adicionar testes unitários
-- Melhorar UI/UX
+Contributions are welcome.  
+Feel free to fork the project, improve it, and submit a pull request while maintaining clean and well-structured code.
 
+---
 
+## 📄 License
 
-
-
-
-
-
-
-
-
-
-
-
+This project is open-source and intended for learning purposes.
